@@ -9,8 +9,8 @@
 3. Go to main heading or click the three lines at the top left then click devices 
 4. Click connect a new device 
 5. click use mobile phone, show qr code 
-8. connect your phone -->"collect images __> permissions"
-9.change lable to 0unknown or #label"
+8. connect your phone -->"collect images --> give access to cameras"
+9. change lable to 0unknown or #label"
 10. collect 30+ images and change label and repeat 
 11.
 12.
