@@ -12,10 +12,12 @@
 8. connect your phone -->"collect images --> give access to cameras"
 9. change lable to 0unknown or #label"
 10. collect 30+ images and change label and repeat 
-11.
-12.
-13.
-14.
-15.
+
+### create model
+1.  impulse design --> create Impulse
+1 add yellow star processing and learning blocks - save
+14. click memnu umage --> generate fetures --> genurate features 
+15. transfer learning --> start training
 16.
+17.
 https://brocktondailey.github.io/Just-yes/public/index.html
