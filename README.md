@@ -1,7 +1,7 @@
 # Just-yes
 
 
-## steps to reproduce an impulse 
+## Steps to reproduce an impulse 
 
 1.
 1.
