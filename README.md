@@ -18,6 +18,16 @@
 1 add yellow star processing and learning blocks - save
 14. click memnu umage --> generate fetures --> genurate features 
 15. transfer learning --> start training
-16.
-17.
+
+### classify 
+1. click on menu live classification
+16. on cellphone "switch to classification mode"
+17. cellphone click "classify" and read persents 0.45 = 45%
+ ## OR put on webpage
+
+1. deployment --> WA (webAssembly) --> unzip 
+2. copy the 2 files to your github folder
+3. make index.html from https://raw.githubusercontent.com/hpssjellis/my-examples-of-edge-impulse/main/public/downloads/index.html
+4. view webpage
+
 https://brocktondailey.github.io/Just-yes/public/index.html
