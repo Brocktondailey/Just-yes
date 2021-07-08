@@ -30,4 +30,9 @@
 3. make index.html from https://raw.githubusercontent.com/hpssjellis/my-examples-of-edge-impulse/main/public/downloads/index.html
 4. view webpage
 
+## OR put on webpage
+
+1. deployment --> WA (webAssembly) --> unzip 
+2. copy the 2 files 
+
 https://brocktondailey.github.io/Just-yes/public/index.html
